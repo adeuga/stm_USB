@@ -1,0 +1,2 @@
+# stm_USB
+USB CDC example for STEVAL-WINBOX1 (STM32U585AI)
